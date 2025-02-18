@@ -7,7 +7,7 @@ I'm not gonna lie, I got pretty excited about the tech stack for this project. H
 - **Tailwind CSS**: I used to be skeptical, but now I'm in love with utility-first CSS.
 - **TypeScript**: It's like JavaScript, but with superpowers.
 
-### Features (The Cool Stuff)
+### Cool Stuff
 
 - **Clean, Minimal Design**: No clutter, just pure shopping goodness.
 - **Responsive Layout**: Looks great on everything from your phone to your ultrawide monitor.
