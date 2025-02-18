@@ -1,0 +1,2 @@
+# Shopply
+Simplicity
