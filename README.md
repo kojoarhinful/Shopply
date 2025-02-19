@@ -26,7 +26,7 @@ Want to check it out? Here's how:
 
 2. Install the goodies:
    \`\`\`
-   cd shoppa
+   cd shopply
    npm install
    \`\`\`
 
@@ -60,7 +60,7 @@ Got questions? Ideas? Just want to chat about web development? Hit me up:
 
 ### Final Thoughts
 
-Building shopply has been an awesome learning experience. It's amazing how a simple idea can turn into a full-fledged project when you're passionate about it. Whether you're here to use shopply, contribute to it, or just check it out, I hope you enjoy it as much as I enjoyed creating it.
+Building shopply has been an awesome learning experience. It's amazing how passion can transform a simple idea into a full project. Whether you're here to use shopply, contribute to it, or just check it out, I hope you enjoy it as much as I enjoyed creating it.
 
 Happy coding, and happy shopping! 🚀🛍️
 
